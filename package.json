@@ -1,0 +1,13 @@
+{
+	name: "backbone.googlemaps",
+	version: "3.1.0",
+	description: "A Backbone JS extension for interacting with the Google Maps API (v3.10)",
+	main: "lib/backbone.googlemaps.js",
+	repository: {
+		type: "git",
+		url: "git://github.com/spothero/backbone.googlemaps.git"
+	},
+	author: "SpotHero",
+	license: "MIT",
+	readmeFilename: "README.md"
+}

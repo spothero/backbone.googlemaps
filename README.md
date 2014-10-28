@@ -1,4 +1,4 @@
-Backbone.GoogleMaps
+Backbone.GoogleMaps (modified for SpotHero)
 ===================
 
 A Backbone JS extension for interacting with the Google Maps API (v3.10)
